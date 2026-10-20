@@ -315,7 +315,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 12.30-CL-12493283 | [Reboot](https://builds.rebootfn.org/windows-12.30.zip) · [FortForge](https://fortforge.co.uk/download/1b5079eb-29e0-4d2b-9185-87559e921eab/build) |
 | 12.30-CL-12624643 | Unavailable |
 | 12.40-CL-12837456 | [Reboot](https://builds.rebootfn.org/windows-12.40.rar) |
-| 12.41-CL-12905909 | [Carbon](https://cdn.cbn.lol/12.41) · [Fentti](https://fentti.xyz/upload/12.41.zip) · [JinxArchive](https://bstlar.com/18229/12.41) · [Reboot](https://builds.rebootfn.org/windows-12.41.zip) |
+| 12.41-CL-12905909 | [Carbon](https://cdn.cbn.lol/12.41) · [JinxArchive](https://bstlar.com/18229/12.41) · [Reboot](https://builds.rebootfn.org/windows-12.41.zip) |
 | 12.50-CL-13044369 | [Reboot](https://builds.rebootfn.org/windows-12.50.zip) · [FortForge](https://fortforge.co.uk/download/df73ebda-c4be-4710-b46c-d3c2836ad7d6/build) |
 | 12.50-CL-13137020 | [Google Drive](https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view) |
 | 12.50-CL-13193885 | Lost |
@@ -426,7 +426,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 18.00-CL-17468642 | [Google Drive](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) · [Reboot](https://builds.rebootfn.org/windows-18.00.rar) · [FortForge](https://fortforge.co.uk/download/6cb6932f-f5c6-4d64-b67e-4d6e816ea60a/build) |
 | 18.00-CL-17519952 | Unavailable |
-| 18.10-CL-17619277 | [Dropbox](https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1) · [Reboot](https://builds.rebootfn.org/windows-18.10.zip) · [FortForge](https://fortforge.co.uk/download/4e8379d2-e1ac-412f-ba27-cfb0040e69e0/build) |
+| 18.10-CL-17619277 | [Reboot](https://builds.rebootfn.org/windows-18.10.zip) · [FortForge](https://fortforge.co.uk/download/4e8379d2-e1ac-412f-ba27-cfb0040e69e0/build) |
 | 18.10-CL-17661844 | Unavailable |
 | 18.20-CL-17745267 | [Reboot](https://builds.rebootfn.org/windows-18.20.zip) · [FortForge](https://fortforge.co.uk/download/9fdc1329-3ce9-40b4-9d1c-7c7755313c8c/build) |
 | 18.20-CL-17792290 | [FN-Archive](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
@@ -453,7 +453,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 19.30-CL-18948597 | [Reboot](https://builds.rebootfn.org/windows-19.30.rar) · [FortForge](https://fortforge.co.uk/download/a5251910-d1bc-4a43-9aa8-55b8ec8614e1/build) · [Carbon](https://cdn.cbn.lol/19.30) |
 | 19.30-CL-19027703 | Unavailable |
 | 19.40-CL-19167615 | [Reboot](https://builds.rebootfn.org/windows-19.40.zip) · [FortForge](https://fortforge.co.uk/download/148c15f5-6ce8-4ee6-9655-501f691792c1/build) |
-| 19.40-CL-19215531 | [Dropbox](https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1) |
+| 19.40-CL-19215531 | Unavailable |
 | 19.34 | Unavailable |
 
 ### Season 20 (Chapter 3, Season 2)
@@ -642,7 +642,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | [FortForge](https://fortforge.co.uk/download/b4e981d9-1d30-44d3-b0bd-118026266234/build) |
 | 32.11-CL-38202817 | [Google Drive](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) · [JinxArchive](https://bstlar.com/18229/32.11) · [Reboot](https://builds.rebootfn.org/windows-32.11.rar) · [FortForge](https://fortforge.co.uk/download/41f1d037-ad5b-4c3b-983b-f3975f32a1ba/build) |
-| 32.11-CL-38371047 | [Dropbox](https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1) |
+| 32.11-CL-38371047 | Unavailable |
 
 ---
 
@@ -655,7 +655,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 33.00-CL-38324112 | Unavailable |
 | 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | [Reboot](https://builds.rebootfn.org/windows-33.10.zip) · [FortForge](https://fortforge.co.uk/download/e21cb7a1-957c-424d-983e-c97b039c9990/build) |
-| 33.11-CL-38773622 | [Dropbox](https://www.dropbox.com/scl/fi/v043h0oe05axhb0v65ync/33.11-CL-38773622.rar?rlkey=jgx2j2x5mvkjt9ltirvgecvvh&dl=1) |
+| 33.11-CL-38773622 | Unavailable |
 | 33.20-CL-39082670 | [FortForge](https://fortforge.co.uk/download/ac1686c1-a63c-4158-bbb4-82b66a189007/build) |
 | 33.20-CL-39277041 | Unavailable |
 | 33.30-CL-39435251 | [FortForge](https://fortforge.co.uk/download/091f4198-6c31-45ed-a46b-ba932f72a624/build) |
