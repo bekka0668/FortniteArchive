@@ -74,7 +74,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | Build | Download Links |
 | :--- | :--- |
 | Cert (Cert-CL-3532353) (Windows, Windows) | [Reboot](https://builds.rebootfn.org/windows-cert.zip) · [Archive.org](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) · [Google Drive](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) · [DataDungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) |
-| 1.2.0 (Cert-CL-3541083) | [DataDungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) · [Reboot](https://builds.rebootfn.org/windows-1.02.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuMi4wLUNMLTM1NDEwODMucmFy&start=1) |
+| 1.2.0 (Cert-CL-3541083) | [Reboot](https://builds.rebootfn.org/windows-1.02.rar) · [DataDungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuMi4wLUNMLTM1NDEwODMucmFy&start=1) |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -93,7 +93,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 1.6.4 (Release-Cert-CL-3668626) | Lost |
 | 1.7.0 (Release-Cert-CL-3681159) | Lost |
 | 1.7.1 | Lost |
-| 1.7.2 (Release-Cert-CL-3700114) | [Google Drive](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) · [Reboot](https://builds.rebootfn.org/windows-1.7.2.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuNy4yLUNMLTM3MDAxMTQuemlw&start=1) · [FortForge](https://fortforge.co.uk/download/ca237bf5-9c75-4787-a227-7659cb63d59f/build) |
+| 1.7.2 (Release-Cert-CL-3700114) | [Reboot](https://builds.rebootfn.org/windows-1.7.2.zip) · [Google Drive](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuNy4yLUNMLTM3MDAxMTQuemlw&start=1) · [FortForge](https://fortforge.co.uk/download/ca237bf5-9c75-4787-a227-7659cb63d59f/build) |
 
 ---
 
@@ -103,8 +103,8 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 1.8.0 (Release-Live-CL-3724489) | [Archive.org](https://archive.org/download/1.8_20241223/1.8.rar) · [Reboot](https://builds.rebootfn.org/windows-1.8.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuOC4wLUNMLTM3MjQ0ODkucmFy&start=1) · [FortForge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) |
-| 1.8.1 (Release-Live-CL-3729133) | [Google Drive](https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view) · [Reboot](https://builds.rebootfn.org/windows-1.8.1.rar) · [FortForge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |
+| 1.8.0 (Release-Live-CL-3724489) | [Reboot](https://builds.rebootfn.org/windows-1.8.rar) · [Archive.org](https://archive.org/download/1.8_20241223/1.8.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuOC4wLUNMLTM3MjQ0ODkucmFy&start=1) · [FortForge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) |
+| 1.8.1 (Release-Live-CL-3729133) | [Reboot](https://builds.rebootfn.org/windows-1.8.1.rar) · [Google Drive](https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view) · [FortForge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |
 | 1.8.2 (Release-Live-CL-3741772) | [Reboot](https://builds.rebootfn.org/windows-1.8.2.rar) · [FortForge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |
 | 1.9.0 (Release-Live-CL-3757339) | [Reboot](https://builds.rebootfn.org/windows-1.9.rar) · [FortForge](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |
 | 1.9.1 (Release-Cert-CL-3775276) | [Reboot](https://builds.rebootfn.org/windows-1.9.1.rar) · [FortForge](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build) |
@@ -131,7 +131,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 3.00 (3.0.0-CL-3901517) | [Reboot](https://builds.rebootfn.org/windows-3.0.zip) · [FortForge](https://fortforge.co.uk/download/d645f800-7826-488a-a7c2-6e4df6633c6b/build) |
 | 3.10 (3.1-CL-3915963) | [Reboot](https://builds.rebootfn.org/windows-3.1.rar) · [FortForge](https://fortforge.co.uk/download/a41dac5e-474e-46d5-b903-755bf17f0104/build) |
-| 3.10.1 (3.1-CL-3917250) | [Google Drive](https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view) · [Reboot](https://builds.rebootfn.org/windows-3.1.1.zip) · [FortForge](https://fortforge.co.uk/download/640c2c18-b15a-48db-87ed-62d3254db535/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTMuMTAuMS1DTC0zOTE3MjUwLnppcA&start=1) |
+| 3.10.1 (3.1-CL-3917250) | [Reboot](https://builds.rebootfn.org/windows-3.1.1.zip) · [Google Drive](https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view) · [FortForge](https://fortforge.co.uk/download/640c2c18-b15a-48db-87ed-62d3254db535/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTMuMTAuMS1DTC0zOTE3MjUwLnppcA&start=1) |
 | 3.20 (3.2-CL-3929794) | [Reboot](https://builds.rebootfn.org/windows-3.2.zip) · [FortForge](https://fortforge.co.uk/download/c3cc09c4-7b4d-4c5b-a89d-ac1d3b51f715/build) |
 | 3.20.1 (3.2-CL-3935073) | Unavailable |
 | 3.30 (3.3-CL-3942182) | [Reboot](https://builds.rebootfn.org/windows-3.3.rar) · [FortForge](https://fortforge.co.uk/download/b7d635e0-48b7-44e7-892f-9b864510c815/build) |
@@ -148,12 +148,12 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | Build | Download Links |
 | :--- | :--- |
 | 4.00 (4.0-CL-4039451) | [Reboot](https://builds.rebootfn.org/windows-4.0.zip) · [FortForge](https://fortforge.co.uk/download/f877d712-3ab1-4f59-be3d-dbea968146c4/build) |
-| 4.10 (4.1-CL-4053532) | [Google Drive](https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view) · [Archive.org](https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip) · [Reboot](https://builds.rebootfn.org/windows-4.01.zip) · [FortForge](https://fortforge.co.uk/download/b7745109-9393-4ad5-be45-317d7ca81ff0/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTQuMTAtQ0wtNDA1MzUzMi56aXA&start=1) |
+| 4.10 (4.1-CL-4053532) | [Reboot](https://builds.rebootfn.org/windows-4.01.zip) · [Google Drive](https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view) · [Archive.org](https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip) · [FortForge](https://fortforge.co.uk/download/b7745109-9393-4ad5-be45-317d7ca81ff0/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTQuMTAtQ0wtNDA1MzUzMi56aXA&start=1) |
 | 4.20 (4.2-CL-4072250) | [Reboot](https://builds.rebootfn.org/windows-4.2.zip) · [FortForge](https://fortforge.co.uk/download/4b8bede3-95d7-4d03-80c5-c099c8e1ff3a/build) |
 | 4.30 (4.3-CL-4095806) | Lost |
 | 4.30.1 (4.3-CL-4103483) | Lost |
 | 4.40 (4.4-CL-4117433) | [Reboot](https://builds.rebootfn.org/windows-4.4.rar) · [FortForge](https://fortforge.co.uk/download/053aaf41-7075-44f4-976b-1aecb7afe31e/build) |
-| 4.40.1 (4.4-CL-4127312) | [Google Drive](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) · [Reboot](https://builds.rebootfn.org/windows-4.04.1.zip) |
+| 4.40.1 (4.4-CL-4127312) | [Reboot](https://builds.rebootfn.org/windows-4.04.1.zip) · [Google Drive](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) |
 | 4.4.X (4.4.x-CL-4132537) | [FortForge](https://fortforge.co.uk/download/c29f2782-45ad-4ec3-b6ac-457632096fca/build) |
 | 4.50 (4.5-CL-4159770) | [Reboot](https://builds.rebootfn.org/windows-4.5.rar) · [FortForge](https://fortforge.co.uk/download/a0e18e8a-6c2f-4259-b514-85dbed080456/build) |
 | 4.50.1 (4.5-CL-4166199) | [Google Drive](https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view) |
@@ -175,7 +175,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 5.30-CL-4317672 | Unavailable |
 | 5.40 (5.40-CL-4351695) | [Reboot](https://builds.rebootfn.org/windows-5.40.rar) · [FortForge](https://fortforge.co.uk/download/fc4a8c5b-8a42-419c-8f37-3147c49c1670/build) |
 | 5.40.1 (5.40-CL-4352937) | Unavailable |
-| 5.41 (5.41-CL-4363240) | [EraFN](https://public-build-archives-bucket.erafn.dev/5.41.zip) · [Archive.org](https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip) · [Reboot](https://builds.rebootfn.org/windows-5.41.zip) · [FortForge](https://fortforge.co.uk/download/85316c09-21c8-4cd3-a4a0-f99e5c805922/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTUuNDEtQ0wtNDM2MzI0MC56aXA&start=1) |
+| 5.41 (5.41-CL-4363240) | [Reboot](https://builds.rebootfn.org/windows-5.41.zip) · [EraFN](https://public-build-archives-bucket.erafn.dev/5.41.zip) · [Archive.org](https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip) · [FortForge](https://fortforge.co.uk/download/85316c09-21c8-4cd3-a4a0-f99e5c805922/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTUuNDEtQ0wtNDM2MzI0MC56aXA&start=1) |
 
 ### Season 6
 
@@ -183,16 +183,16 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 6.00 (6.00-CL-4395664) | [Reboot](https://builds.rebootfn.org/windows-6.00.rar) · [FortForge](https://fortforge.co.uk/download/ce0d04f8-bcdf-44a7-adaa-1a1669f8e113/build) |
 | 6.00.1 (6.00-CL-4402180) | Unavailable |
-| 6.01 (6.01-CL-4417689) | [Archive.org](https://archive.org/download/Fortnite-6.01-CL-4417689.rar/6.01-CL-4417689.rar) · [Reboot](https://builds.rebootfn.org/windows-6.01.rar) · [FortForge](https://fortforge.co.uk/download/4209e8d0-3404-4073-9424-31fe8debbd63/build) |
-| 6.01.1 (6.01-CL-4424678) | [Google Drive](https://drive.google.com/file/d/1u-bij6Gq9_wEVM1G04TP7JI2txNrakQb/view) · [Reboot](https://builds.rebootfn.org/windows-6.1.1.rar) |
+| 6.01 (6.01-CL-4417689) | [Reboot](https://builds.rebootfn.org/windows-6.01.rar) · [Archive.org](https://archive.org/download/Fortnite-6.01-CL-4417689.rar/6.01-CL-4417689.rar) · [FortForge](https://fortforge.co.uk/download/4209e8d0-3404-4073-9424-31fe8debbd63/build) |
+| 6.01.1 (6.01-CL-4424678) | [Reboot](https://builds.rebootfn.org/windows-6.1.1.rar) · [Google Drive](https://drive.google.com/file/d/1u-bij6Gq9_wEVM1G04TP7JI2txNrakQb/view) |
 | 6.02 (6.02-CL-4442095) | [Reboot](https://builds.rebootfn.org/windows-6.02.rar) · [FortForge](https://fortforge.co.uk/download/dc0a6b20-899d-4981-a061-dc6acf272761/build) |
-| 6.02.1 (6.02-CL-4461277) | [Google Drive](https://drive.google.com/file/d/1SlWF87kNH1PKwu-cRWyuktrS2vVt-pHz/view) · [Reboot](https://builds.rebootfn.org/windows-6.2.1.rar) |
+| 6.02.1 (6.02-CL-4461277) | [Reboot](https://builds.rebootfn.org/windows-6.2.1.rar) · [Google Drive](https://drive.google.com/file/d/1SlWF87kNH1PKwu-cRWyuktrS2vVt-pHz/view) |
 | 6.10 (6.10-CL-4464155) | [Reboot](https://builds.rebootfn.org/windows-6.10.rar) · [FortForge](https://fortforge.co.uk/download/acdcf849-07f6-4647-bf7d-16461552da8b/build) |
 | 6.10.1 (6.10-CL-4476098) | [Reboot](https://builds.rebootfn.org/windows-6.10.1.rar) |
-| 6.10.2 (6.10-CL-4480234) | [Google Drive](https://drive.google.com/file/d/1z0S3S8Khz8hY8qL7UbL9FYti5u6qVxsr/view) · [Reboot](https://builds.rebootfn.org/windows-6.10.2.rar) |
-| 6.20 (6.20-CL-4497486) | [FN-Archive](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) · [Reboot](https://builds.rebootfn.org/windows-6.20.zip) · [FortForge](https://fortforge.co.uk/download/88744d14-bac1-440b-a39b-8e0b92f5c8e5/build) · [Carbon](https://cdn.cbn.lol/6.20) |
+| 6.10.2 (6.10-CL-4480234) | [Reboot](https://builds.rebootfn.org/windows-6.10.2.rar) · [Google Drive](https://drive.google.com/file/d/1z0S3S8Khz8hY8qL7UbL9FYti5u6qVxsr/view) |
+| 6.20 (6.20-CL-4497486) | [Reboot](https://builds.rebootfn.org/windows-6.20.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) · [FortForge](https://fortforge.co.uk/download/88744d14-bac1-440b-a39b-8e0b92f5c8e5/build) · [Carbon](https://cdn.cbn.lol/6.20) |
 | 6.20.1 (6.20-CL-4504220) | Lost |
-| 6.21 (6.21-CL-4526925) | [EraFN](https://public-build-archives-bucket.erafn.dev/6.21.zip) · [Reboot](https://builds.rebootfn.org/windows-6.21.rar) · [FortForge](https://fortforge.co.uk/download/773161e6-c567-479e-869b-a7538a33ab94/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTYuMjEtQ0wtNDUyNjkyNS56aXA&start=1) |
+| 6.21 (6.21-CL-4526925) | [Reboot](https://builds.rebootfn.org/windows-6.21.rar) · [EraFN](https://public-build-archives-bucket.erafn.dev/6.21.zip) · [FortForge](https://fortforge.co.uk/download/773161e6-c567-479e-869b-a7538a33ab94/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTYuMjEtQ0wtNDUyNjkyNS56aXA&start=1) |
 | 6.21.1 (6.21-CL-4531851) | Lost |
 | 6.21-CL-4535631 | Unavailable |
 | 6.22 (6.22-CL-4541220) | [Reboot](https://builds.rebootfn.org/windows-6.22.rar) · [FortForge](https://fortforge.co.uk/download/859d2bec-36bb-463f-8e7b-18735b917909/build) |
@@ -206,13 +206,13 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 7.00 (7.00-CL-4629139) | [Reboot](https://builds.rebootfn.org/windows-7.00.rar) · [FortForge](https://fortforge.co.uk/download/69a30a27-2b2a-4413-b1b2-4448f5df6d84/build) |
 | 7.01 (7.01-CL-4648651) | Lost |
-| 7.10 (7.10-CL-4667333) | [Google Drive](https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view) · [Reboot](https://builds.rebootfn.org/windows-7.10.rar) · [FortForge](https://fortforge.co.uk/download/bfeb4d10-4a66-41ea-bbfb-e321dba74f6c/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTcuMTAtQ0wtNDY2NzMzMy5yYXI&start=1) |
+| 7.10 (7.10-CL-4667333) | [Reboot](https://builds.rebootfn.org/windows-7.10.rar) · [Google Drive](https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view) · [FortForge](https://fortforge.co.uk/download/bfeb4d10-4a66-41ea-bbfb-e321dba74f6c/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTcuMTAtQ0wtNDY2NzMzMy5yYXI&start=1) |
 | 7.20 (7.20-CL-4716934) | [Reboot](https://builds.rebootfn.org/windows-7.20.rar) · [FortForge](https://fortforge.co.uk/download/d263d360-627c-470b-b89f-c2677a823515/build) |
 | 7.20.1 (7.20-CL-4727874) | Unavailable |
 | 7.30 (7.30-CL-4821335) | [Reboot](https://builds.rebootfn.org/windows-7.30.zip) · [FortForge](https://fortforge.co.uk/download/839b239b-4a94-4559-9ca2-d658493ced6c/build) |
 | 7.30.1 (7.30-CL-4834550) | Unavailable |
 | 7.30.2 (7.30-CL-4869070) | Lost |
-| 7.40 (7.40-CL-4980899) | [JinxArchive](https://bstlar.com/18229/7.40) · [Reboot](https://builds.rebootfn.org/windows-7.40.rar) · [FortForge](https://fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) · [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip) |
+| 7.40 (7.40-CL-4980899) | [Reboot](https://builds.rebootfn.org/windows-7.40.rar) · [JinxArchive](https://bstlar.com/18229/7.40) · [FortForge](https://fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) · [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip) |
 | 7.40.1 (7.40-CL-4996168) | Lost |
 | 7.40.2 (7.40-CL-5012948) | Lost |
 | 7.40.3 (7.40-CL-5046157) | Unavailable |
@@ -237,7 +237,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 8.40 (8.40-CL-5914491) | [Reboot](https://builds.rebootfn.org/windows-8.40.zip) · [FortForge](https://fortforge.co.uk/download/997ef7b7-82bd-499e-8b40-c17d5be57e5e/build) |
 | 8.40.1 (8.40-CL-6005771) | [Archive.org](https://archive.org/download/Fortnite-8.40-CL-6005771.zip/8.40-CL-6005771.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTguNDAtQ0wtNjAwNTc3MS56aXA&start=1) |
 | 8.50 (8.50-CL-6058028) | [Reboot](https://builds.rebootfn.org/windows-8.50.zip) · [FortForge](https://fortforge.co.uk/download/3782699d-02a6-45ff-9df5-a9263509b755/build) |
-| 8.51 (8.51-CL-6165369) | [JinxArchive](https://bstlar.com/18229/8.51) · [Reboot](https://builds.rebootfn.org/windows-8.51.rar) · [FortForge](https://fortforge.co.uk/download/a714418b-4171-42cf-ba01-04d0b5e42a5c/build) · [Archive.org](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTguNTEtQ0wtNjE2NTM2OS56aXA&start=1) |
+| 8.51 (8.51-CL-6165369) | [Reboot](https://builds.rebootfn.org/windows-8.51.rar) · [JinxArchive](https://bstlar.com/18229/8.51) · [FortForge](https://fortforge.co.uk/download/a714418b-4171-42cf-ba01-04d0b5e42a5c/build) · [Archive.org](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTguNTEtQ0wtNjE2NTM2OS56aXA&start=1) |
 
 ### Season 9
 
@@ -245,7 +245,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 9.00 (9.00-CL-6337466) | [Reboot](https://builds.rebootfn.org/windows-9.00.zip) · [FortForge](https://fortforge.co.uk/download/fa0f0970-4d96-48fb-803c-ca6192a0394e/build) |
 | 9.01 (9.01-CL-6428087) | [Reboot](https://builds.rebootfn.org/windows-9.01.zip) · [FortForge](https://fortforge.co.uk/download/3743bbb4-89f0-40c6-a594-687d9570341e/build) |
-| 9.10 (9.10-CL-6573057) | [JinxArchive](https://bstlar.com/18229/9.10) · [Reboot](https://builds.rebootfn.org/windows-9.10.rar) |
+| 9.10 (9.10-CL-6573057) | [Reboot](https://builds.rebootfn.org/windows-9.10.rar) · [JinxArchive](https://bstlar.com/18229/9.10) |
 | 9.10.1 (9.10-CL-6616201) | Lost |
 | 9.10.2 (9.10-CL-6639283) | Unavailable |
 | 9.20 (9.20-CL-6822798) | [Reboot](https://builds.rebootfn.org/windows-9.20.zip) · [FortForge](https://fortforge.co.uk/download/e3550789-46eb-4efe-86ce-ca3f955e6feb/build) · [Carbon](https://cdn.cbn.lol/9.20) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTkuMjAtQ0wtNjgyMjc5OC5yYXI&start=1) |
@@ -268,7 +268,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 10.20.2 (10.20-CL-8456527) | [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEwLjIwLUNMLTg0NTY1MjcuN3o&start=1) |
 | 10.30 (10.30-CL-8569414) | [FortForge](https://fortforge.co.uk/download/876b88d9-bff2-46f9-a6e2-9415855761c7/build) |
 | 10.31 (10.31-CL-8723043) | [Reboot](https://builds.rebootfn.org/windows-10.31.zip) · [FortForge](https://fortforge.co.uk/download/ed20218b-343b-4983-83eb-f0302b164de0/build) |
-| 10.40 (10.40-CL-8970213) | [JinxArchive](https://bstlar.com/18229/10.40) · [Reboot](https://builds.rebootfn.org/windows-10.40.rar) · [FortForge](https://fortforge.co.uk/t/bf030bdebf967443be4a94a00fe8c65085f8e848be6e99b5) · [Carbon](https://cdn.cbn.lol/10.40) |
+| 10.40 (10.40-CL-8970213) | [Reboot](https://builds.rebootfn.org/windows-10.40.rar) · [JinxArchive](https://bstlar.com/18229/10.40) · [FortForge](https://fortforge.co.uk/t/bf030bdebf967443be4a94a00fe8c65085f8e848be6e99b5) · [Carbon](https://cdn.cbn.lol/10.40) |
 | 10.40.1 (10.40-CL-9302865) | Lost |
 | 10.40.2 (10.40-CL-9380822) | [Archive.org](https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEwLjQwLUNMLTkzODA4MjIucmFy&start=1) |
 
@@ -280,7 +280,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 11.00-CL-9562734 | [Archive.org](https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z) · [Reboot](https://builds.rebootfn.org/windows-11.00.zip) · [FortForge](https://fortforge.co.uk/download/ce1d4eaf-cd22-4afc-b480-c751110b95d1/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTExLjAwLUNMLTk1NjI3MzQuN3o&start=1) |
+| 11.00-CL-9562734 | [Reboot](https://builds.rebootfn.org/windows-11.00.zip) · [Archive.org](https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z) · [FortForge](https://fortforge.co.uk/download/ce1d4eaf-cd22-4afc-b480-c751110b95d1/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTExLjAwLUNMLTk1NjI3MzQuN3o&start=1) |
 | 11.00-CL-9603448 | Unavailable |
 | 11.01-CL-9728272 | [Reboot](https://builds.rebootfn.org/windows-11.01.zip) · [FortForge](https://fortforge.co.uk/download/380ca693-d446-41c0-aa83-410a66022547/build) |
 | 11.10-CL-9844520 | [Reboot](https://builds.rebootfn.org/windows-11.10.zip) · [FortForge](https://fortforge.co.uk/download/457ebf74-849f-4aa2-8d42-b9e31beb1684/build) |
@@ -291,7 +291,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 11.21-CL-10481509 | [Reboot](https://builds.rebootfn.org/windows-11.21.zip) · [FortForge](https://fortforge.co.uk/download/704543f6-9567-4e72-8ce2-311f298957e0/build) · [Archive.org](https://archive.org/download/fn-v11-archive/builds/11.21-CL-10481509.7z) |
 | 11.30-CL-10639804 | [Reboot](https://builds.rebootfn.org/windows-11.30.zip) · [FortForge](https://fortforge.co.uk/download/9170eaa1-b53d-4374-929c-f3546869d2dd/build) |
 | 11.30-CL-10708866 | [Archive.org](https://archive.org/download/fn-v11-archive/builds/11.30-CL-10708866.7z) |
-| 11.31-CL-10760473 | [JinxArchive](https://bstlar.com/18229/11.31) · [Reboot](https://builds.rebootfn.org/windows-11.31.rar) · [FortForge](https://fortforge.co.uk/download/8c79049c-8173-4623-b921-f93c6e60c79d/build) |
+| 11.31-CL-10760473 | [Reboot](https://builds.rebootfn.org/windows-11.31.rar) · [JinxArchive](https://bstlar.com/18229/11.31) · [FortForge](https://fortforge.co.uk/download/8c79049c-8173-4623-b921-f93c6e60c79d/build) |
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10800459 | [Google Drive](https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view) · [Archive.org](https://archive.org/download/fn-v11-archive/builds/11.31-CL-10800459.7z) |
 | 11.40-CL-10951104 | [Reboot](https://builds.rebootfn.org/windows-11.40.zip) · [FortForge](https://fortforge.co.uk/download/25e2e892-e9c1-4b24-8ac5-05f6d00a15e4/build) |
@@ -311,11 +311,11 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 12.10-CL-11883027 | [Google Drive](https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view) |
 | 12.20-CL-12170032 | Lost |
 | 12.20-CL-12236980 | Unavailable |
-| 12.21-CL-12353830 | [Google Drive](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view) · [Reboot](https://builds.rebootfn.org/windows-12.21.zip) |
+| 12.21-CL-12353830 | [Reboot](https://builds.rebootfn.org/windows-12.21.zip) · [Google Drive](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view) |
 | 12.30-CL-12493283 | [Reboot](https://builds.rebootfn.org/windows-12.30.zip) · [FortForge](https://fortforge.co.uk/download/1b5079eb-29e0-4d2b-9185-87559e921eab/build) |
 | 12.30-CL-12624643 | Unavailable |
 | 12.40-CL-12837456 | [Reboot](https://builds.rebootfn.org/windows-12.40.rar) |
-| 12.41-CL-12905909 | [Carbon](https://cdn.cbn.lol/12.41) · [JinxArchive](https://bstlar.com/18229/12.41) · [Reboot](https://builds.rebootfn.org/windows-12.41.zip) |
+| 12.41-CL-12905909 | [Reboot](https://builds.rebootfn.org/windows-12.41.zip) · [Carbon](https://cdn.cbn.lol/12.41) · [JinxArchive](https://bstlar.com/18229/12.41) |
 | 12.50-CL-13044369 | [Reboot](https://builds.rebootfn.org/windows-12.50.zip) · [FortForge](https://fortforge.co.uk/download/df73ebda-c4be-4710-b46c-d3c2836ad7d6/build) |
 | 12.50-CL-13137020 | [Google Drive](https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view) |
 | 12.50-CL-13193885 | Lost |
@@ -349,12 +349,12 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 14.20-CL-14354056 | [Reboot](https://builds.rebootfn.org/windows-14.20.rar) |
 | 14.20-CL-14375974 | Lost |
 | 14.20-CL-14384759 | Unavailable |
-| 14.30-CL-14456520 | [Gofile #1](https://gofile.io/d/47NC7f) · [Reboot](https://builds.rebootfn.org/windows-14.30.rar) · [FortForge](https://fortforge.co.uk/download/16e65d10-af1a-4e35-aabc-46c831a5b2b0/build) · [Gofile #2](https://store4.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar) |
-| 14.40-CL-14512399 | [JinxArchive](https://bstlar.com/18229/14.40) · [Reboot](https://builds.rebootfn.org/windows-14.40.rar) |
+| 14.30-CL-14456520 | [Reboot](https://builds.rebootfn.org/windows-14.30.rar) · [Gofile #1](https://gofile.io/d/47NC7f) · [FortForge](https://fortforge.co.uk/download/16e65d10-af1a-4e35-aabc-46c831a5b2b0/build) · [Gofile #2](https://store4.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar) |
+| 14.40-CL-14512399 | [Reboot](https://builds.rebootfn.org/windows-14.40.rar) · [JinxArchive](https://bstlar.com/18229/14.40) |
 | 14.40-CL-14550713 | [Nebula](https://cdn.nebulafn.com/14.40-CL-14550713.rar) |
 | 14.50-CL-14617811 | [Reboot](https://builds.rebootfn.org/windows-14.50.zip) · [FortForge](https://fortforge.co.uk/download/9a2d54ee-c9e0-48ff-ad99-2f9a95376126/build) · [Carbon](https://cdn.cbn.lol/14.50) |
 | 14.50-CL-14643651 | Unavailable |
-| 14.60-CL-14756138 | [JinxArchive](https://bstlar.com/18229/14.60) · [Reboot](https://builds.rebootfn.org/windows-14.60.zip) |
+| 14.60-CL-14756138 | [Reboot](https://builds.rebootfn.org/windows-14.60.zip) · [JinxArchive](https://bstlar.com/18229/14.60) |
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14786821 | Unavailable |
 
@@ -362,29 +362,29 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 15.00-CL-14826719 | [JinxArchive](https://bstlar.com/18229/15.00) · [Reboot](https://builds.rebootfn.org/windows-15.00.zip) · [FortForge](https://fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build) |
+| 15.00-CL-14826719 | [Reboot](https://builds.rebootfn.org/windows-15.00.zip) · [JinxArchive](https://bstlar.com/18229/15.00) · [FortForge](https://fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build) |
 | 15.00-CL-14835335 | [FN-Archive](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) |
 | 15.10-CL-14904303 | [Reboot](https://builds.rebootfn.org/windows-15.10.zip) · [FortForge](https://fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build) · [Carbon](https://cdn.cbn.lol/15.10) |
 | 15.10-CL-14937640 | Lost |
 | 15.10-CL-15014719 | [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTE1LjEwLUNMLTE1MDE0NzE5LnppcA&start=1) |
 | 15.20-CL-15033494 | [Reboot](https://builds.rebootfn.org/windows-15.20.zip) · [FortForge](https://fortforge.co.uk/download/2a97ee62-a114-4863-8747-542a50d47273/build) |
 | 15.20-CL-15070882 | Unavailable |
-| 15.21-CL-15083856 | [FN-Archive](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) · [Reboot](https://builds.rebootfn.org/windows-15.21.zip) · [FortForge](https://fortforge.co.uk/download/594f7654-cbaf-4224-9259-aa7e770c61af/build) |
-| 15.30-CL-15233634 | [JinxArchive](https://bstlar.com/18229/15.30) · [Reboot](https://builds.rebootfn.org/windows-15.30.zip) |
+| 15.21-CL-15083856 | [Reboot](https://builds.rebootfn.org/windows-15.21.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) · [FortForge](https://fortforge.co.uk/download/594f7654-cbaf-4224-9259-aa7e770c61af/build) |
+| 15.30-CL-15233634 | [Reboot](https://builds.rebootfn.org/windows-15.30.zip) · [JinxArchive](https://bstlar.com/18229/15.30) |
 | 15.30-CL-15316852 | Lost |
 | 15.30-CL-15341163 | Unavailable |
 | 15.40-CL-15385160 | Lost |
 | 15.40-CL-15419568 | Lost |
 | 15.40-CL-15424013 | Lost |
 | 15.40-CL-15496915 | Unavailable |
-| 15.50-CL-15526472 | [Google Drive](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view) · [JinxArchive](https://bstlar.com/18229/15.50) · [Reboot](https://builds.rebootfn.org/windows-15.50.zip) · [FortForge](https://fortforge.co.uk/download/67c17e33-9fd6-44b0-91c2-9a768cc03288/build) |
+| 15.50-CL-15526472 | [Reboot](https://builds.rebootfn.org/windows-15.50.zip) · [Google Drive](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view) · [JinxArchive](https://bstlar.com/18229/15.50) · [FortForge](https://fortforge.co.uk/download/67c17e33-9fd6-44b0-91c2-9a768cc03288/build) |
 | 15.50-CL-15570449 | Unavailable |
 
 ### Season 16 (Chapter 2, Season 6)
 
 | Build | Download Links |
 | :--- | :--- |
-| 16.00-CL-15685441 | [FN-Archive](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) · [Reboot](https://builds.rebootfn.org/windows-16.00.zip) · [FortForge](https://fortforge.co.uk/download/fb343020-4dae-4c69-ab16-511ef525ddda/build) |
+| 16.00-CL-15685441 | [Reboot](https://builds.rebootfn.org/windows-16.00.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) · [FortForge](https://fortforge.co.uk/download/fb343020-4dae-4c69-ab16-511ef525ddda/build) |
 | 16.00-CL-15713390 | Lost |
 | 16.00-CL-15727376 | Unavailable |
 | 16.10-CL-15851811 | [Reboot](https://builds.rebootfn.org/windows-16.10.zip) · [FortForge](https://fortforge.co.uk/download/7bc4425d-fa7c-47b1-b4d8-5999c6c6e6a3/build) |
@@ -398,8 +398,8 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 16.20-CL-16042441 | [Reboot](https://builds.rebootfn.org/windows-16.20.zip) · [FortForge](https://fortforge.co.uk/download/88678e1b-9df7-41b6-8b12-9e8f3125e7c7/build) |
 | 16.30-CL-16086208 | [Reboot](https://builds.rebootfn.org/windows-16.30.zip) |
 | 16.30-CL-16163563 | [Google Drive](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) |
-| 16.40-CL-16218553 | [JinxArchive](https://bstlar.com/18229/16.40) · [Reboot](https://builds.rebootfn.org/windows-16.40.zip) · [FortForge](https://fortforge.co.uk/download/794940b5-e62d-4a6e-9752-f90bf54cc1b6/build) |
-| 16.50-CL-16432754 | [Google Drive](https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view) · [Reboot](https://builds.rebootfn.org/windows-16.50.zip) |
+| 16.40-CL-16218553 | [Reboot](https://builds.rebootfn.org/windows-16.40.zip) · [JinxArchive](https://bstlar.com/18229/16.40) · [FortForge](https://fortforge.co.uk/download/794940b5-e62d-4a6e-9752-f90bf54cc1b6/build) |
+| 16.50-CL-16432754 | [Reboot](https://builds.rebootfn.org/windows-16.50.zip) · [Google Drive](https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view) |
 | 16.50-CL-16469788 | Unavailable |
 
 ### Season 17 (Chapter 2, Season 7)
@@ -410,29 +410,29 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 17.00-CL-16593740 | Unavailable |
 | 17.10-CL-16701187 | [Reboot](https://builds.rebootfn.org/windows-17.10.zip) · [FortForge](https://fortforge.co.uk/download/98450244-dff7-4acf-b794-97a8980fd98c/build) |
 | 17.10-CL-16745144 | Unavailable |
-| 17.20-CL-16868155 | [FN-Archive](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) · [Reboot](https://builds.rebootfn.org/windows-17.20.zip) · [FortForge](https://fortforge.co.uk/download/a7245821-6e30-461e-909c-73aa90418f03/build) |
+| 17.20-CL-16868155 | [Reboot](https://builds.rebootfn.org/windows-17.20.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) · [FortForge](https://fortforge.co.uk/download/a7245821-6e30-461e-909c-73aa90418f03/build) |
 | 17.21-CL-16949556 | [Reboot](https://builds.rebootfn.org/windows-17.21.zip) · [FortForge](https://fortforge.co.uk/download/77e5b41b-2b97-440f-8f06-e97df654d220/build) |
 | 17.21-CL-16967001 | Unavailable |
-| 17.30-CL-17004569 | [Mirror](https://cdn.fortmp.dev/17.30.zip) · [JinxArchive](https://bstlar.com/18229/17.30) · [Reboot](https://builds.rebootfn.org/windows-17.30.zip) · [FortForge](https://fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build) · [Carbon](https://cdn.cbn.lol/17.30) |
+| 17.30-CL-17004569 | [Reboot](https://builds.rebootfn.org/windows-17.30.zip) · [Mirror](https://cdn.fortmp.dev/17.30.zip) · [JinxArchive](https://bstlar.com/18229/17.30) · [FortForge](https://fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build) · [Carbon](https://cdn.cbn.lol/17.30) |
 | 17.40-CL-17162853 | Unavailable |
 | 17.40-CL-17215766 | [Reboot](https://builds.rebootfn.org/windows-17.40.zip) · [FortForge](https://fortforge.co.uk/download/23ef9c56-2fa7-4ca2-baf3-4d87fff6d7f4/build) · [Carbon](https://cdn.cbn.lol/17.40) |
 | 17.40-CL-17269705 | [FN-Archive](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) |
-| 17.50-CL-17328477 | [JinxArchive](https://bstlar.com/18229/17.50) · [Reboot](https://builds.rebootfn.org/windows-17.50.zip) · [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon) |
+| 17.50-CL-17328477 | [Reboot](https://builds.rebootfn.org/windows-17.50.zip) · [JinxArchive](https://bstlar.com/18229/17.50) · [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon) |
 | 17.50-CL-17388565 | [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) |
 
 ### Season 18 (Chapter 2, Season 8)
 
 | Build | Download Links |
 | :--- | :--- |
-| 18.00-CL-17468642 | [Google Drive](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) · [Reboot](https://builds.rebootfn.org/windows-18.00.rar) · [FortForge](https://fortforge.co.uk/download/6cb6932f-f5c6-4d64-b67e-4d6e816ea60a/build) |
+| 18.00-CL-17468642 | [Reboot](https://builds.rebootfn.org/windows-18.00.rar) · [Google Drive](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) · [FortForge](https://fortforge.co.uk/download/6cb6932f-f5c6-4d64-b67e-4d6e816ea60a/build) |
 | 18.00-CL-17519952 | Unavailable |
 | 18.10-CL-17619277 | [Reboot](https://builds.rebootfn.org/windows-18.10.zip) · [FortForge](https://fortforge.co.uk/download/4e8379d2-e1ac-412f-ba27-cfb0040e69e0/build) |
 | 18.10-CL-17661844 | Unavailable |
 | 18.20-CL-17745267 | [Reboot](https://builds.rebootfn.org/windows-18.20.zip) · [FortForge](https://fortforge.co.uk/download/9fdc1329-3ce9-40b4-9d1c-7c7755313c8c/build) |
 | 18.20-CL-17792290 | [FN-Archive](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) |
-| 18.21-CL-17811397 | [FN-Archive](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) · [Reboot](https://builds.rebootfn.org/windows-18.21.zip) · [FortForge](https://fortforge.co.uk/download/8a5048a9-0c71-4a42-9c72-f511782fe4b4/build) |
+| 18.21-CL-17811397 | [Reboot](https://builds.rebootfn.org/windows-18.21.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) · [FortForge](https://fortforge.co.uk/download/8a5048a9-0c71-4a42-9c72-f511782fe4b4/build) |
 | 18.30-CL-17882303 | [Reboot](https://builds.rebootfn.org/windows-18.30.zip) · [FortForge](https://fortforge.co.uk/download/1884f5d9-4c5e-4f90-8055-abbf26e78861/build) |
-| 18.40-CL-18163738 | [JinxArchive](https://bstlar.com/18229/18.40) · [Reboot](https://builds.rebootfn.org/windows-18.40.zip) · [FortForge](https://fortforge.co.uk/t/00e7878028e8bb2f44504f88297a9a6e56008caf8eefa571) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTE4LjQwLUNMLTE4MTYzNzM4Ljd6&start=1) · [Carbon](https://cdn.cbn.lol/18.40) |
+| 18.40-CL-18163738 | [Reboot](https://builds.rebootfn.org/windows-18.40.zip) · [JinxArchive](https://bstlar.com/18229/18.40) · [FortForge](https://fortforge.co.uk/t/00e7878028e8bb2f44504f88297a9a6e56008caf8eefa571) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTE4LjQwLUNMLTE4MTYzNzM4Ljd6&start=1) · [Carbon](https://cdn.cbn.lol/18.40) |
 
 ---
 
@@ -442,11 +442,11 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 19.00-CL-18335626 | [Archive.org](https://archive.org/compress/fortnite-19.01.7z) · [Reboot](https://builds.rebootfn.org/windows-19.00.zip) · [FortForge](https://fortforge.co.uk/download/91c64a49-cb15-404f-83a0-704ed85f98ba/build) |
+| 19.00-CL-18335626 | [Reboot](https://builds.rebootfn.org/windows-19.00.zip) · [Archive.org](https://archive.org/compress/fortnite-19.01.7z) · [FortForge](https://fortforge.co.uk/download/91c64a49-cb15-404f-83a0-704ed85f98ba/build) |
 | 19.00-CL-18380290 | Unavailable |
 | 19.01-CL-18415863 | Lost |
 | 19.01-CL-18489740 | [JinxArchive](https://bstlar.com/18229/19.01) · [FortForge](https://fortforge.co.uk/download/2442fe98-cbbb-45c0-8db0-927c9d706d22/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTE5LjAxLUNMLTE4NDg5NzQwLnppcA&start=1) · [Archive.org #1](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) · [Archive.org #2](https://archive.org/download/fortnite-19.01.7z/19.01.7z) |
-| 19.10-CL-18581131 | [JinxArchive](https://bstlar.com/18229/19.10) · [Reboot](https://builds.rebootfn.org/windows-19.10.rar) |
+| 19.10-CL-18581131 | [Reboot](https://builds.rebootfn.org/windows-19.10.rar) · [JinxArchive](https://bstlar.com/18229/19.10) |
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18675304 | Unavailable |
 | 19.20-CL-18775446 | [Reboot](https://builds.rebootfn.org/windows-19.20.zip) · [FortForge](https://fortforge.co.uk/download/ba41c36d-6b87-4776-ba21-02a87471b4cb/build) · [Archive.org](https://archive.org/download/19.20-cl-18775446/19.20-CL-18775446.zip) |
@@ -475,13 +475,13 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 21.00-CL-20463113 | [Ploosh](https://r2.ploosh.dev/21.00.zip) · [Google Drive](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) · [Reboot](https://builds.rebootfn.org/windows-21.00.zip) · [FortForge](https://fortforge.co.uk/t/8be022cfd4c511b3f92c484db1f97a0c376b8a1a91282185) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjAwLUNMLTIwNDYzMTEzLjd6&start=1) |
+| 21.00-CL-20463113 | [Reboot](https://builds.rebootfn.org/windows-21.00.zip) · [Ploosh](https://r2.ploosh.dev/21.00.zip) · [Google Drive](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) · [FortForge](https://fortforge.co.uk/t/8be022cfd4c511b3f92c484db1f97a0c376b8a1a91282185) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjAwLUNMLTIwNDYzMTEzLjd6&start=1) |
 | 21.00-CL-20548557 | Unavailable |
-| 21.10-CL-20696680 | [JinxArchive](https://bstlar.com/18229/21.10) · [Reboot](https://builds.rebootfn.org/windows-21.10.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjEwLUNMLTIwNjk2NjgwLnppcA&start=1) · [FortForge](https://fortforge.co.uk/download/a9a05db2-cbfb-4afc-af95-8668eb826108/build) |
+| 21.10-CL-20696680 | [Reboot](https://builds.rebootfn.org/windows-21.10.zip) · [JinxArchive](https://bstlar.com/18229/21.10) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjEwLUNMLTIwNjk2NjgwLnppcA&start=1) · [FortForge](https://fortforge.co.uk/download/a9a05db2-cbfb-4afc-af95-8668eb826108/build) |
 | 21.10-CL-20756627 | Lost |
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
-| 21.20-CL-20890025 | [JinxArchive](https://bstlar.com/18229/21.20) · [Reboot](https://builds.rebootfn.org/windows-21.20.zip) · [FortForge](https://fortforge.co.uk/download/71cf07a7-646d-4f90-9aa2-eaa89279f8ae/build) |
+| 21.20-CL-20890025 | [Reboot](https://builds.rebootfn.org/windows-21.20.zip) · [JinxArchive](https://bstlar.com/18229/21.20) · [FortForge](https://fortforge.co.uk/download/71cf07a7-646d-4f90-9aa2-eaa89279f8ae/build) |
 | 21.20-CL-20978394 | Unavailable |
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | [Reboot](https://builds.rebootfn.org/windows-21.30.zip) · [FortForge](https://fortforge.co.uk/download/635d0bf6-7718-48e1-8106-a80ec93cabb4/build) · [Carbon](https://cdn.cbn.lol/21.30) |
@@ -504,7 +504,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 22.20-CL-22523251 | [JinxArchive](https://bstlar.com/18229/22.20) |
 | 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | [FortForge](https://fortforge.co.uk/download/d291143e-8aa6-4a97-8d30-5251b4f1bfe2/build) |
-| 22.40-CL-23070899 | [Gofile #1](https://gofile.io/d/uwbcWq) · [Reboot](https://builds.rebootfn.org/windows-22.40.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIyLjQwLUNMLTIzMDcwODk5LnppcA&start=1) · [Gofile #2](https://gofile.io/d/103fc009-2595-463f-926b-63c49f542dc6) |
+| 22.40-CL-23070899 | [Reboot](https://builds.rebootfn.org/windows-22.40.zip) · [Gofile #1](https://gofile.io/d/uwbcWq) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIyLjQwLUNMLTIzMDcwODk5LnppcA&start=1) · [Gofile #2](https://gofile.io/d/103fc009-2595-463f-926b-63c49f542dc6) |
 
 ---
 
@@ -529,12 +529,12 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 24.00-CL-24554913 | [Gofile #1](https://gofile.io/d/GOSBx4) · [Reboot](https://builds.rebootfn.org/windows-24.00.zip) · [FortForge](https://fortforge.co.uk/download/7163219f-d0fa-4efa-93cc-b2b0341d446b/build) · [Gofile #2](https://gofile.io/d/2cb72177-feaa-4466-a3d9-a1812eca1337) · [Archive.org](https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z) |
+| 24.00-CL-24554913 | [Reboot](https://builds.rebootfn.org/windows-24.00.zip) · [Gofile #1](https://gofile.io/d/GOSBx4) · [FortForge](https://fortforge.co.uk/download/7163219f-d0fa-4efa-93cc-b2b0341d446b/build) · [Gofile #2](https://gofile.io/d/2cb72177-feaa-4466-a3d9-a1812eca1337) · [Archive.org](https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z) |
 | 24.01-CL-24672685 | [Reboot](https://builds.rebootfn.org/windows-24.01.zip) · [FortForge](https://fortforge.co.uk/download/fabc531b-7e4e-4e9f-9748-f30d14f8bbf1/build) |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | [Reboot](https://builds.rebootfn.org/windows-24.10.zip) |
 | 24.10-CL-24903530 | Unavailable |
-| 24.20-CL-24939793 | [Carbon](https://cdn.cbn.lol/24.20) · [JinxArchive](https://bstlar.com/18229/24.20) · [Reboot](https://builds.rebootfn.org/windows-24.20.rar) · [FortForge](https://fortforge.co.uk/download/a85ce745-72bf-48d6-bdfb-a2ad55927a1f/build?lootlabs_return=1&brand=exal) |
+| 24.20-CL-24939793 | [Reboot](https://builds.rebootfn.org/windows-24.20.rar) · [Carbon](https://cdn.cbn.lol/24.20) · [JinxArchive](https://bstlar.com/18229/24.20) · [FortForge](https://fortforge.co.uk/download/a85ce745-72bf-48d6-bdfb-a2ad55927a1f/build?lootlabs_return=1&brand=exal) |
 | 24.20-CL-25019967 | Unavailable |
 | 24.20-CL-25058254 | Unavailable |
 | 24.20-CL-25156858 | [Archive.org #1](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z) · [Archive.org #2](https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip) · [Gofile](https://gofile.io/d/cw0eee) |
@@ -552,9 +552,9 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-26000959 | [Reboot](https://builds.rebootfn.org/windows-25.10.zip) · [FortForge](https://fortforge.co.uk/download/f796e829-2901-4ca0-a7d2-4f022967012d/build) |
 | 25.11-CL-26171015 | [Reboot](https://builds.rebootfn.org/windows-25.11.zip) · [FortForge](https://fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build) |
-| 25.20-CL-26474516 | [JinxArchive](https://bstlar.com/18229/25.20) · [Reboot](https://builds.rebootfn.org/windows-25.20.zip) · [FortForge](https://fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build) |
+| 25.20-CL-26474516 | [Reboot](https://builds.rebootfn.org/windows-25.20.zip) · [JinxArchive](https://bstlar.com/18229/25.20) · [FortForge](https://fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build) |
 | 25.20-CL-26629111 | [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTI1LjIwLUNMLTI2NjI5MTExLnppcA&start=1) |
-| 25.30-CL-26867995 | [JinxArchive](https://bstlar.com/18229/25.30) · [Reboot](https://builds.rebootfn.org/windows-25.30.zip) · [FortForge](https://fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build) |
+| 25.30-CL-26867995 | [Reboot](https://builds.rebootfn.org/windows-25.30.zip) · [JinxArchive](https://bstlar.com/18229/25.30) · [FortForge](https://fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build) |
 
 ### Season 26 (Chapter 4, Season 4 - Last Resort)
 
@@ -571,9 +571,9 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 27.00-CL-29072304 | [Carbon](https://cdn.cbn.lol/27.00) · [Reboot](https://builds.rebootfn.org/windows-27.00.zip) |
-| 27.10-CL-29552510 | [Carbon](https://cdn.cbn.lol/27.10) · [Reboot](https://builds.rebootfn.org/windows-27.10.zip) |
-| 27.11-CL-29739262 | [Gofile #1](https://gofile.io/d/MfJHqg) · [JinxArchive](https://bstlar.com/18229/27.11) · [Reboot](https://builds.rebootfn.org/windows-27.11.rar) · [Gofile #2](https://gofile.io/d/337aba8a-05a7-48ab-a026-f7b107a77d48) |
+| 27.00-CL-29072304 | [Reboot](https://builds.rebootfn.org/windows-27.00.zip) · [Carbon](https://cdn.cbn.lol/27.00) |
+| 27.10-CL-29552510 | [Reboot](https://builds.rebootfn.org/windows-27.10.zip) · [Carbon](https://cdn.cbn.lol/27.10) |
+| 27.11-CL-29739262 | [Reboot](https://builds.rebootfn.org/windows-27.11.rar) · [Gofile #1](https://gofile.io/d/MfJHqg) · [JinxArchive](https://bstlar.com/18229/27.11) · [Gofile #2](https://gofile.io/d/337aba8a-05a7-48ab-a026-f7b107a77d48) |
 
 ---
 
@@ -590,7 +590,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 28.10-CL-30835064 | Unavailable |
 | 28.20-CL-31165234 | Unavailable |
 | 28.20-CL-31286935 | Unavailable |
-| 28.30-CL-31511038 | [Gofile](https://gofile.io/d/pIYSae) · [JinxArchive](https://bstlar.com/18229/28.30) · [Reboot](https://builds.rebootfn.org/windows-28.30.zip) · [FortForge](https://fortforge.co.uk/download/48d3ac1b-baae-49f0-9353-1264114de009/build) · [Archive.org](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |
+| 28.30-CL-31511038 | [Reboot](https://builds.rebootfn.org/windows-28.30.zip) · [Gofile](https://gofile.io/d/pIYSae) · [JinxArchive](https://bstlar.com/18229/28.30) · [FortForge](https://fortforge.co.uk/download/48d3ac1b-baae-49f0-9353-1264114de009/build) · [Archive.org](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |
 
 ### Season 29 (Chapter 5, Season 2 - Myths & Mortals)
 
@@ -641,7 +641,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 32.00-CL-37505882 | [FortForge](https://fortforge.co.uk/download/883222a4-66c1-4b6a-ac21-840e496556ea/build) |
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | [FortForge](https://fortforge.co.uk/download/b4e981d9-1d30-44d3-b0bd-118026266234/build) |
-| 32.11-CL-38202817 | [Google Drive](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) · [JinxArchive](https://bstlar.com/18229/32.11) · [Reboot](https://builds.rebootfn.org/windows-32.11.rar) · [FortForge](https://fortforge.co.uk/download/41f1d037-ad5b-4c3b-983b-f3975f32a1ba/build) |
+| 32.11-CL-38202817 | [Reboot](https://builds.rebootfn.org/windows-32.11.rar) · [Google Drive](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) · [JinxArchive](https://bstlar.com/18229/32.11) · [FortForge](https://fortforge.co.uk/download/41f1d037-ad5b-4c3b-983b-f3975f32a1ba/build) |
 | 32.11-CL-38371047 | Unavailable |
 
 ---
@@ -681,7 +681,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 35.00-CL-41994699 | [Archive.org](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) · [Reboot](https://builds.rebootfn.org/windows-35.00.zip) · [FortForge](https://fortforge.co.uk/download/1eecd270-ab42-42ed-b84b-29d890062daa/build) |
+| 35.00-CL-41994699 | [Reboot](https://builds.rebootfn.org/windows-35.00.zip) · [Archive.org](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) · [FortForge](https://fortforge.co.uk/download/1eecd270-ab42-42ed-b84b-29d890062daa/build) |
 | 35.00-CL-42223143 | Manifest Available |
 | 35.10-CL-42476511 | [Reboot](https://builds.rebootfn.org/windows-35.10.zip) · [FortForge](https://fortforge.co.uk/download/2c7334d6-057e-479a-99f4-876ef890a702/build) |
 | 35.10-CL-42696140 | Manifest Available |
@@ -724,9 +724,9 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 
 | Build | Download Links |
 | :--- | :--- |
-| 38.00-CL-47291259 | [Archive.org](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) · [Reboot](https://builds.rebootfn.org/windows-38.00.zip) · [FortForge](https://fortforge.co.uk/download/87602ce4-b6e6-4ea0-a7cc-1bc57fa01294/build) |
+| 38.00-CL-47291259 | [Reboot](https://builds.rebootfn.org/windows-38.00.zip) · [Archive.org](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) · [FortForge](https://fortforge.co.uk/download/87602ce4-b6e6-4ea0-a7cc-1bc57fa01294/build) |
 | 38.00-CL-47722112 | [Archive.org](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) |
-| 38.10-CL-47888945 | [Archive.org](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) · [Reboot](https://builds.rebootfn.org/windows-38.10.zip) · [FortForge](https://fortforge.co.uk/download/8a6de440-f43f-4439-b14f-42e89dc43459/build) |
+| 38.10-CL-47888945 | [Reboot](https://builds.rebootfn.org/windows-38.10.zip) · [Archive.org](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) · [FortForge](https://fortforge.co.uk/download/8a6de440-f43f-4439-b14f-42e89dc43459/build) |
 | 38.11-CL-48390828 | [Archive.org](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) · [FortForge](https://fortforge.co.uk/download/c2359619-2f35-415a-9800-c580d680294f/build) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcA&start=1) |
 | 38.20 | Unavailable |
 | 38.30 | Unavailable |
@@ -793,7 +793,8 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 42.20-CL-58011042 | [FortForge](https://fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build) |
 | 42.30-CL-58557680 | Manifest Available |
 | 42.30-CL-58813929 | Manifest Available |
-| 42.40-CL-59086525 | Current Version |
+| 42.40-CL-59086525 | Manifest Available |
+| 42.40-CL-59343437 | Current Version (Manifest Available) |
 
 ---
 
