@@ -820,7 +820,6 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 - [ForcedFN](https://forcedfnbuilds.website/)
 - [Ploosh](https://r2.ploosh.dev/)
 - [Nebula](https://nebulafn.com/)
-- [Kovryn](https://r2.kovryn.xyz/)
 - [EraFN](https://erafn.dev/)
 - [JinxOnReboot](https://discord.gg/mq8KZSQfWJ) 
 - [llamaqwerty](https://github.com/llamaqwerty)
