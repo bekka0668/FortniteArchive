@@ -418,7 +418,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 17.40-CL-17215766 | [Reboot](https://builds.rebootfn.org/windows-17.40.zip) · [FortForge](https://fortforge.co.uk/download/23ef9c56-2fa7-4ca2-baf3-4d87fff6d7f4/build) · [Carbon](https://cdn.cbn.lol/17.40) |
 | 17.40-CL-17269705 | [FN-Archive](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) |
 | 17.50-CL-17328477 | [Reboot](https://builds.rebootfn.org/windows-17.50.zip) · [JinxArchive](https://bstlar.com/18229/17.50) · [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon) |
-| 17.50-CL-17388565 | [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) |
+| 17.50-CL-17388565 | [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) · [Kikai](https://r2.kikai.win/17.50.zip) |
 
 ### Season 18 (Chapter 2, Season 8)
 
