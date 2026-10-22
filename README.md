@@ -523,7 +523,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 23.30-CL-23986860 | [Reboot](https://builds.rebootfn.org/windows-23.30.zip) · [FortForge](https://fortforge.co.uk/download/f8705320-6c83-433c-9aa5-ea3cd5d91eb8/build) · [Archive.org](https://archive.org/download/23.20-cl-23783097/23.30-CL-23986860.zip) |
 | 23.40-CL-24087481 | [FortForge](https://fortforge.co.uk/download/d769ec2c-03b1-4f40-9284-6ca449172b49/build) · [Archive.org](https://archive.org/download/23.20-cl-23783097/23.40-CL-24087481.zip) |
 | 23.50-CL-24376996 | Lost |
-| 23.50-CL-24441668 | [FortForge](https://fortforge.co.uk/download/b0bf28c5-6c49-40e5-8930-ccbf318e1aa8/build) · [Archive.org](https://archive.org/download/23.20-cl-23783097/23.50-CL-24441668.zip) |
+| 23.50-CL-24441668 | [Pluton](https://pluton.solutions/builds/23.50.zip) · [FortForge](https://fortforge.co.uk/download/b0bf28c5-6c49-40e5-8930-ccbf318e1aa8/build) · [Archive.org](https://archive.org/download/23.20-cl-23783097/23.50-CL-24441668.zip) |
 
 ### Season 24 (Chapter 4, Season 2 - MEGA)
 
