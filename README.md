@@ -212,7 +212,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 7.30 (7.30-CL-4821335) | [Reboot](https://builds.rebootfn.org/windows-7.30.zip) · [FortForge](https://fortforge.co.uk/download/839b239b-4a94-4559-9ca2-d658493ced6c/build) |
 | 7.30.1 (7.30-CL-4834550) | Unavailable |
 | 7.30.2 (7.30-CL-4869070) | Lost |
-| 7.40 (7.40-CL-4980899) | [Reboot](https://builds.rebootfn.org/windows-7.40.rar) · [JinxArchive](https://bstlar.com/18229/7.40) · [FortForge](https://fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) · [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip) |
+| 7.40 (7.40-CL-4980899) | [Reboot](https://builds.rebootfn.org/windows-7.40.rar) · [Pluton](https://pluton.solutions/builds/7.40.rar) · [JinxArchive](https://bstlar.com/18229/7.40) · [FortForge](https://fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) · [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip) |
 | 7.40.1 (7.40-CL-4996168) | Lost |
 | 7.40.2 (7.40-CL-5012948) | Lost |
 | 7.40.3 (7.40-CL-5046157) | Unavailable |
@@ -814,6 +814,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 - [Reboot](https://rebootfn.org/)
 - [FortForge](https://www.fortforge.co.uk/builds)
 - [Archive.org](https://archive.org/)
+- [Pluton](https://github.com/dtcesu)
 - [The Data Dungeon](https://archive.thedatadungeon.com/)
 - [Carbon](https://builds.cbn.lol/builds)
 - [Fn-Builds](https://fn-builds.com/)
