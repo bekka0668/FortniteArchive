@@ -105,7 +105,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | :--- | :--- |
 | 1.8.0 (Release-Live-CL-3724489) | [Reboot](https://builds.rebootfn.org/windows-1.8.rar) · [Archive.org](https://archive.org/download/1.8_20241223/1.8.rar) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEuOC4wLUNMLTM3MjQ0ODkucmFy&start=1) · [FortForge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) |
 | 1.8.1 (Release-Live-CL-3729133) | [Reboot](https://builds.rebootfn.org/windows-1.8.1.rar) · [Google Drive](https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view) · [FortForge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |
-| 1.8.2 (Release-Live-CL-3741772) | [Reboot](https://builds.rebootfn.org/windows-1.8.2.rar) · [FortForge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |
+| 1.8.2 (Release-Live-CL-3741772) | [Reboot](https://builds.rebootfn.org/windows-1.8.2.rar) · [FortForge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) · [Archive.org](https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar) |
 | 1.9.0 (Release-Live-CL-3757339) | [Reboot](https://builds.rebootfn.org/windows-1.9.rar) · [FortForge](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |
 | 1.9.1 (Release-Cert-CL-3775276) | [Reboot](https://builds.rebootfn.org/windows-1.9.1.rar) · [FortForge](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build) |
 | Unknown Build (Release-Cert-CL-3785438) | Lost |
@@ -313,7 +313,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 12.20-CL-12236980 | Unavailable |
 | 12.21-CL-12353830 | [Reboot](https://builds.rebootfn.org/windows-12.21.zip) · [Google Drive](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view) |
 | 12.30-CL-12493283 | [Reboot](https://builds.rebootfn.org/windows-12.30.zip) · [FortForge](https://fortforge.co.uk/download/a6383658-e670-4c86-9505-0dac8f1505c8/build) |
-| 12.30-CL-12624643 | [FortForge](https://fortforge.co.uk/download/1b5079eb-29e0-4d2b-9185-87559e921eab/build) |
+| 12.30-CL-12624643 | [FortForge](https://fortforge.co.uk/download/1b5079eb-29e0-4d2b-9185-87559e921eab/build) · [Fn-Archive](https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z) |
 | 12.40-CL-12837456 | [Reboot](https://builds.rebootfn.org/windows-12.40.rar) |
 | 12.41-CL-12905909 | [Reboot](https://builds.rebootfn.org/windows-12.41.zip) · [Carbon](https://cdn.cbn.lol/12.41) · [JinxArchive](https://bstlar.com/18229/12.41) · [FortForge](https://fortforge.co.uk/download/8d08445d-5862-4c16-b4ad-49cfe84d794d/build) |
 | 12.50-CL-13044369 | [Reboot](https://builds.rebootfn.org/windows-12.50.zip) · [FortForge](https://fortforge.co.uk/download/df73ebda-c4be-4710-b46c-d3c2836ad7d6/build) |
@@ -487,7 +487,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 21.30-CL-21102315 | [Reboot](https://builds.rebootfn.org/windows-21.30.zip) · [FortForge](https://fortforge.co.uk/download/635d0bf6-7718-48e1-8106-a80ec93cabb4/build) |
 | 21.30-CL-21155462 | [Carbon](https://cdn.cbn.lol/21.30) |
 | 21.40-CL-21348157 | [Reboot](https://builds.rebootfn.org/windows-21.40.zip) |
-| 21.40-CL-21407327 | Unavailable |
+| 21.40-CL-21407327 | [Carbon](https://cdn.cbn.lol/21.40) |
 | 21.50-CL-21657658 | [Reboot](https://builds.rebootfn.org/windows-21.50.zip) · [FortForge](https://fortforge.co.uk/download/f1937854-2514-4236-a46a-550c292e8b2a/build) · [Carbon](https://cdn.cbn.lol/21.50) |
 | 21.51-CL-21735703 | [Reboot](https://builds.rebootfn.org/windows-21.51.zip) · [Fn-Builds](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjUxLUNMLTIxNzM1NzAzLjd6&start=1) · [FortForge](https://fortforge.co.uk/download/7e6e9462-8639-4f9c-b7fd-ba0c0b6b5e70/build) |
 
@@ -572,7 +572,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | Build | Download Links |
 | :--- | :--- |
 | 27.00-CL-29072304 | [Reboot](https://builds.rebootfn.org/windows-27.00.zip) · [Carbon](https://cdn.cbn.lol/27.00) |
-| 27.10-CL-29552510 | [Reboot](https://builds.rebootfn.org/windows-27.10.zip) |
+| 27.10-CL-29552510 | [Reboot](https://builds.rebootfn.org/windows-27.10.zip) · [Carbon](https://cdn.cbn.lol/27.10) |
 | 27.11-CL-29739262 | [Reboot](https://builds.rebootfn.org/windows-27.11.rar) · [Gofile #1](https://gofile.io/d/MfJHqg) · [JinxArchive](https://bstlar.com/18229/27.11) · [Gofile #2](https://gofile.io/d/337aba8a-05a7-48ab-a026-f7b107a77d48) |
 
 ---
