@@ -348,7 +348,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 14.10-CL-14312695 | [FortForge](https://fortforge.co.uk/download/fb87988b-c672-46e0-87a3-f14c9888472c/build) |
 | 14.20-CL-14354056 | [Reboot](https://builds.rebootfn.org/windows-14.20.rar) |
 | 14.20-CL-14375974 | Lost |
-| 14.20-CL-14384759 | [FortForge](https://fortforge.co.uk/download/2a140085-1478-49b1-8e21-045ef78d3133/build) |
+| 14.20-CL-14384759 | [Carbon](https://cdn.cbn.lol/14.20) · [FortForge](https://fortforge.co.uk/download/2a140085-1478-49b1-8e21-045ef78d3133/build) |
 | 14.30-CL-14456520 | [Reboot](https://builds.rebootfn.org/windows-14.30.rar) · [Gofile #1](https://gofile.io/d/47NC7f) · [FortForge](https://fortforge.co.uk/download/16e65d10-af1a-4e35-aabc-46c831a5b2b0/build) · [Gofile #2](https://store4.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar) |
 | 14.40-CL-14512399 | [Reboot](https://builds.rebootfn.org/windows-14.40.rar) · [JinxArchive](https://bstlar.com/18229/14.40) |
 | 14.40-CL-14550713 | [Nebula](https://cdn.nebulafn.com/14.40-CL-14550713.rar) · [FortForge](https://fortforge.co.uk/download/18940067-524a-4601-98b4-1f742b1a4c18/build) |
@@ -413,7 +413,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 17.20-CL-16868155 | [Reboot](https://builds.rebootfn.org/windows-17.20.zip) · [FN-Archive](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) · [FortForge](https://fortforge.co.uk/download/a7245821-6e30-461e-909c-73aa90418f03/build) |
 | 17.21-CL-16949556 | [Reboot](https://builds.rebootfn.org/windows-17.21.zip) |
 | 17.21-CL-16967001 | [FortForge](https://fortforge.co.uk/download/77e5b41b-2b97-440f-8f06-e97df654d220/build) |
-| 17.30-CL-17004569 | [Reboot](https://builds.rebootfn.org/windows-17.30.zip) · [Mirror](https://cdn.fortmp.dev/17.30.zip) · [JinxArchive](https://bstlar.com/18229/17.30) · [FortForge](https://fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build) |
+| 17.30-CL-17004569 | [Reboot](https://builds.rebootfn.org/windows-17.30.zip) · [Carbon](https://cdn.cbn.lol/17.30) · [Mirror](https://cdn.fortmp.dev/17.30.zip) · [JinxArchive](https://bstlar.com/18229/17.30) · [FortForge](https://fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build) |
 | 17.40-CL-17162853 | Unavailable |
 | 17.40-CL-17215766 | [Reboot](https://builds.rebootfn.org/windows-17.40.zip) |
 | 17.40-CL-17269705 | [FN-Archive](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) · [Carbon](https://cdn.cbn.lol/17.40) · [FortForge](https://fortforge.co.uk/download/23ef9c56-2fa7-4ca2-baf3-4d87fff6d7f4/build) |
