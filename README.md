@@ -330,7 +330,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 13.00-CL-13649278 | [Reboot](https://builds.rebootfn.org/windows-13.00.rar) · [FortForge](https://fortforge.co.uk/download/39253503-51df-4acf-a770-480ac1fb5377/build) |
 | 13.00-CL-13696059 | Lost |
 | 13.00-CL-13715544 | [Archive.org](https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z) · [FortForge](https://fortforge.co.uk/download/108ea258-bc5f-473c-8d43-5bc24ba338fb/build) |
-| 13.20-CL-13777676 | [Reboot](https://builds.rebootfn.org/windows-13.20.rar) · [Carbon](https://cdn.cbn.lol/13.20) · [FortForge](https://fortforge.co.uk/download/a873e2db-0470-457e-b0fc-13ddcac83db3/build) |
+| 13.20-CL-13777676 | [Reboot](https://builds.rebootfn.org/windows-13.20.rar) · [FortForge](https://fortforge.co.uk/download/a873e2db-0470-457e-b0fc-13ddcac83db3/build) |
 | 13.30-CL-13884634 | [Reboot](https://builds.rebootfn.org/windows-13.30.rar) · [FortForge](https://fortforge.co.uk/download/93b2b6bf-04f0-47ea-bdef-922f42494c1c/build) |
 | 13.40-CL-14008768 | [JinxArchive](https://bstlar.com/18229/13.40) |
 | 13.40-CL-14036559 | Unavailable |
@@ -353,7 +353,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 14.40-CL-14512399 | [Reboot](https://builds.rebootfn.org/windows-14.40.rar) · [JinxArchive](https://bstlar.com/18229/14.40) |
 | 14.40-CL-14550713 | [Nebula](https://cdn.nebulafn.com/14.40-CL-14550713.rar) · [FortForge](https://fortforge.co.uk/download/18940067-524a-4601-98b4-1f742b1a4c18/build) |
 | 14.50-CL-14617811 | [Reboot](https://builds.rebootfn.org/windows-14.50.zip) |
-| 14.50-CL-14643651 | [Carbon](https://cdn.cbn.lol/14.50) · [FortForge](https://fortforge.co.uk/download/9a2d54ee-c9e0-48ff-ad99-2f9a95376126/build) |
+| 14.50-CL-14643651 | [FortForge](https://fortforge.co.uk/download/9a2d54ee-c9e0-48ff-ad99-2f9a95376126/build) |
 | 14.60-CL-14756138 | [Reboot](https://builds.rebootfn.org/windows-14.60.zip) · [JinxArchive](https://bstlar.com/18229/14.60) |
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14786821 | [FortForge](https://fortforge.co.uk/download/564d4689-db2a-44d4-87c0-8a464929dca9/build) |
@@ -534,7 +534,7 @@ A basically complete archive of Windows Fortnite builds. If anything is missing 
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | [Reboot](https://builds.rebootfn.org/windows-24.10.zip) |
 | 24.10-CL-24903530 | Unavailable |
-| 24.20-CL-24939793 | [Reboot](https://builds.rebootfn.org/windows-24.20.rar) · [JinxArchive](https://bstlar.com/18229/24.20) · [FortForge](https://fortforge.co.uk/download/c4910091-eb16-415f-a978-0556d02aa219/build) |
+| 24.20-CL-24939793 | [Reboot](https://builds.rebootfn.org/windows-24.20.rar) · [Carbon](https://cdn.cbn.lol/24.20) · [JinxArchive](https://bstlar.com/18229/24.20) · [FortForge](https://fortforge.co.uk/download/c4910091-eb16-415f-a978-0556d02aa219/build) |
 | 24.20-CL-25019967 | [FortForge](https://fortforge.co.uk/download/5a39bfe2-b950-4e7e-a15b-e4a5242e72fc/build) |
 | 24.20-CL-25058254 | [FortForge](https://fortforge.co.uk/download/a85ce745-72bf-48d6-bdfb-a2ad55927a1f/build) |
 | 24.20-CL-25156858 | [Archive.org #1](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z) · [Archive.org #2](https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip) · [Gofile](https://gofile.io/d/cw0eee) · [FortForge](https://fortforge.co.uk/download/e767d3b4-237e-4f76-87a9-ff57b5213693/build) |
